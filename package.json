@@ -1,0 +1,14 @@
+{
+  "name": "pdf-lib-autotable",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gabriel Rodrigues <gabxda203@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^29.7.0",
+    "pdf-lib": "^1.17.1"
+  }
+}
